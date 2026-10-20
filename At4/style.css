@@ -1,0 +1,9 @@
+body{
+    background-color:#ffff;
+    color: #000;
+}
+
+body.black{
+    background-color:#ffff;
+    color: #000;
+}
